@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662912945422",
+    "project_id": "simp-auth-84531",
+    "storage_bucket": "simp-auth-84531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662912945422:android:bfd9b000850ddb56951b5f",
+        "android_client_info": {
+          "package_name": "com.example.simp_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662912945422-cg078v3u55mfmmtutj06hsd2368cclnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGXMvrthM-g1EUgOX_zo0_edYLDn5ORms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662912945422-cg078v3u55mfmmtutj06hsd2368cclnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
